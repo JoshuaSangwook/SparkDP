@@ -1,5 +1,3 @@
-package io.joon
-
 import org.apache.log4j.Logger
 
 object LogTester extends App {
